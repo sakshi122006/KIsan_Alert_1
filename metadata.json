@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Kisan Alert",
+  "description": "Smart Water, Crop \u0026 Advisory System featuring real-time IoT simulation, weather forecasting, crop recommendation, disease detection, and agricultural AI advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
